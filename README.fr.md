@@ -83,10 +83,11 @@ Vous avez trouvé une faille ? Signalez-la en privé depuis l’onglet **Securit
 
 ## Autres maquettes
 
-Cette maquette fait partie de **Vitrines en mouvement**, une série de quatre sites animés au défilement :
+Cette maquette fait partie de **Vitrines en mouvement**, une série de cinq sites animés au défilement :
 
 - **[Maison Billot](https://github.com/hoshuko/maison-billot/blob/main/README.fr.md)**: Le site vitrine animé d’une boucherie artisanale : la découpe du bœuf expliquée pièce par pièce.
 - **[Tafat](https://github.com/hoshuko/tafat/blob/main/README.fr.md)**: Le site d’une équipe de femmes qui fait le ménage à domicile sur la côte kabyle : au défilement, une raclette nettoie la vitre.
 - **[Tiziri](https://github.com/hoshuko/tiziri/blob/main/README.fr.md)**: La garde-robe d’une boutique de vêtements en ligne : chaque pièce, photographiée en magasin, est portée par un mannequin en bois qui prend vie.
+- **[Lalla Warda](https://github.com/hoshuko/lalla-warda/blob/main/README.fr.md)**: Le site d’une marque de cosmétiques naturels de Kénitra : une rose en 3D s’ouvre sur un flacon de sérum, et chaque soin montre ce qu’il contient et comment il s’applique sur le visage et les cheveux.
 
 Portfolio: <https://hoshuko.github.io/> · YouTube: <https://www.youtube.com/@Hosh-uko>

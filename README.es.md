@@ -83,10 +83,11 @@ El código se publica con la [licencia PolyForm Noncommercial 1.0.0](LICENSE). P
 
 ## Más maquetas
 
-Forma parte de **Escaparates en movimiento**, una serie de cuatro webs animadas al desplazarse:
+Forma parte de **Escaparates en movimiento**, una serie de cinco webs animadas al desplazarse:
 
 - **[Maison Billot](https://github.com/hoshuko/maison-billot/blob/main/README.es.md)**: La web animada de una carnicería artesanal: el despiece del vacuno explicado pieza a pieza.
 - **[Tafat](https://github.com/hoshuko/tafat/blob/main/README.es.md)**: La web de un equipo de mujeres que limpia casas en la costa de Cabilia: al desplazarte, una rasqueta limpia el cristal.
 - **[Tiziri](https://github.com/hoshuko/tiziri/blob/main/README.es.md)**: El armario de una tienda de ropa en línea: cada prenda, fotografiada en la tienda, la lleva un maniquí de madera que cobra vida.
+- **[Lalla Warda](https://github.com/hoshuko/lalla-warda/blob/main/README.es.md)**: La web de una marca de cosmética natural de Kenitra: una rosa en 3D se abre hasta revelar un frasco de sérum, y cada producto muestra de qué está hecho y cómo se aplica en el rostro y el cabello.
 
 Portafolio: <https://hoshuko.github.io/es.html> · YouTube: <https://www.youtube.com/@Hosh-uko>
